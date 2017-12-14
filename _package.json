@@ -1,0 +1,17 @@
+{
+  "name": "vue-imc",
+  "version": "1.0.0",
+  "description": "imc",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "vue": "^2.5.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "renato",
+  "license": "ISC"
+}
